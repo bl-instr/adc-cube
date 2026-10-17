@@ -1,4 +1,4 @@
-# Blinky ADC Cube
+# ADC Cube
 
 **Two-channel, high-speed analog acquisition for connecting 0–10 V sensors to the Blinky-Lite control system in their natural engineering units.**
 <img src="bl-adc-cube.png" alt="bl-adc-cube" width="800"/>
