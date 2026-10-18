@@ -37,7 +37,7 @@ Built around the Raspberry Pi Pico W / RP2040, the module uses 2.4 GHz Wi-Fi and
 | Communication | MQTT publish/subscribe protocol |
 | Controller | Raspberry Pi Pico W / RP2040 |
 | PCB dimensions | 48 mm × 86 mm |
-| Enclosure and mounting | 58 mm × 96 mm × 28 mm; DIN Mod3-compatible enclosure with removable DIN-rail mount |
+| Enclosure and mounting | 53 mm × 93 mm × 25 mm; DIN Mod3-compatible enclosure with removable DIN-rail mount |
 | Platform | Blinky-Lite Instrumentation Platform |
 
 ### Typical applications
